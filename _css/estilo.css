@@ -150,8 +150,17 @@ table#tabelaspec td.cd {
 
 table#tabelaspec caption {
     color: #888888;
-    font-size: 20pt;
+    font-size: 16pt;
     font-weight: red;
+}
+
+table#tabelaspec caption span {
+    color: black;
+    display: block;
+    float: right;
+    font-size: 8pt;
+    margin-top: 12px;
+
 }
 
 aside#lateral {
