@@ -1,0 +1,21 @@
+<p>Exemplos de <sup>formatação</sup></p> 
+<p>X<sup>2</sup> E H<sup>2</sup>O</p>   
+
+// DEIXAR LETRA MINUSCULA ACIMA OU ABAIXO //
+-------------------------------------------
+<pre>
+<code>
+#include <iostream>
+    int main() {
+        cout << "Olá Mundo!";
+        return 0;
+    }
+</code>
+</pre>
+
+// TAGS PARA MANTER LINHAS DE CODIGOS NO FORMATO ORIGINAL //
+-------------------------------------------
+target="_blank" 
+
+// ABRIR LINK EM OUTRA PAGINA //
+-------------------------------------------
